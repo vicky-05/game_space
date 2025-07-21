@@ -1,12 +1,32 @@
-# React + Vite
+# 🎮 Game Space
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A visually immersive and interactive landing page for gaming enthusiasts. Built using React.js, Tailwind CSS, and GSAP for rich animations and smooth scrolling effects.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [Visit Game Space](https://vicky-05.github.io/game_space/)
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Animated hero section
+- Top games showcase with hover and trailer modal
+- Scroll-based transitions with GSAP
+- SVG-based game timeline with animated car
+- Player testimonials in creative speech/thought bubble style
+- Background music and modern UI
+
+## 🛠️ Tech Stack
+
+- React.js
+- Tailwind CSS
+- GSAP (GreenSock)
+- React Icons
+- AOS (Animate on Scroll)
+
+## 📁 Project Setup
+
+```bash
+git clone https://github.com/vicky-05/game_space.git
+cd game_space
+npm install
+npm start
